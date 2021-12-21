@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jane</h1>
+<h1 align="center">Hi 👋, I'm Jane.</h1>
 <h3 align="center">Energetic person</h3>
 
 - 🔭 I’m currently working on [MathCoding](git@github.com:jjentaa/MathCoding.git)
