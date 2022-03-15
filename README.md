@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [MathCoding](git@github.com:jjentaa/MathCoding.git)
 
-- 🌱 I’m currently learning **python.**
+- 🌱 I’m currently learning **R and JavaScript.**
 
 - 👯 I’m looking to collaborate on [Pythongame](git@github.com:jjentaa/Pythongame.git)
 
