@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [MathCoding](git@github.com:jjentaa/MathCoding.git)
 
-- 🌱 I’m currently learning **R and JavaScript.**
+- 🌱 I’m currently learning **Calculus and Euler method.**
 
 - 👯 I’m looking to collaborate on [Pythongame](git@github.com:jjentaa/Pythongame.git)
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jjentaa](https://github.com/jjentaa)
 
-- 💬 Ask me about **Math and Astronomy.**
+- 💬 Ask me about **Math and Physics.**
 
 - 📫 How to reach me **jjentaaw@gmail.com**
 
