@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Calculus and Euler method.<br>❓ Ask me about Math and Physics.<br>⚡ Fun fact I love light theme.
+🌱 I’m currently learning Mental health therapy and Euler method.<br>❓ Ask me about Math and Physics.<br>⚡ Fun fact I love light theme.
 
 
 ## 🌐 Socials:
