@@ -9,6 +9,8 @@
 
 - 📝 I regularly write articles on [https://medium.com/@madness_](https://medium.com/@madness_)
 
+- Super AI Engineer season4 🏅
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/jjentaaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jjentaaw" height="30" width="40" /></a>
